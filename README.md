@@ -5,44 +5,58 @@
 <h1 align="center">Crade</h1>
 
 <p align="center">
-  AI-powered screen assistant for macOS and Windows.<br>
-  Ask anything about your screen — get instant answers.
+  ChatGPT and Claude that see your screen.<br>
+  Native AI assistant for macOS and Windows.
 </p>
 
 <p align="center">
-  <a href="https://github.com/cradeai/crade/releases/latest">Download</a> ·
-  <a href="https://crade.ai">Website</a>
+  <a href="https://crade.ai">crade.ai</a> ·
+  <a href="https://github.com/crade-ai/crade/releases/latest">Download</a>
 </p>
 
 ---
 
 ## What is Crade?
 
-Crade sits on your desktop and answers questions about what's on your screen. Ask your question and Crade automatically captures your screen and gives you an AI-powered response instantly.
+Crade floats over your screen on macOS and Windows. Ask anything about what's visible, get an answer in the same window. No screenshots, no tab-switching.
 
-No continuous screen recording. No background monitoring. Crade only sees your screen when you ask it to.
+Three ways to use it:
+
+- Connect your **ChatGPT account** (free or paid), AI runs through OpenAI
+- Connect your **Claude Pro or Max account**, AI runs through Anthropic
+- Use **Crade's built-in version** if you don't want to connect anything
 
 ## Features
 
-- **Screen Q&A** — Ask anything about what's on your screen
-- **Privacy-first** — Only captures your screen when you ask, never in the background
-- **Lightweight** — Minimal CPU and memory usage
-- **Cross-platform** — macOS and Windows
-- **Auto-updates** — Always stay on the latest version
+- **Always-on overlay** that stays above other apps, including fullscreen video
+- **Reads your screen on demand**, never in the background
+- **Connect your own ChatGPT or Claude** account, or use the built-in version
+- **Agent mode** (Pro): Crade can write files, run shell commands, and take action on your machine
+- **Native** on macOS and Windows
+
+## Pricing
+
+| Plan | Price | What you get |
+|------|-------|-------------|
+| Free | $0 | Daily chat, screen vision, full history |
+| Pro | $7.99/mo or $49.99/yr | Higher daily limits, Agent mode, priority support |
+| Premium | $19.99/mo or $149.99/yr | 10x daily limits, everything in Pro |
 
 ## Download
 
 | Platform | Link |
 |----------|------|
-| macOS (.dmg) | [Download](https://github.com/cradeai/crade/releases/latest/download/Crade.dmg) |
-| macOS (.pkg) | [Download](https://github.com/cradeai/crade/releases/latest/download/Crade.pkg) |
-| Windows (.exe) | [Download](https://github.com/cradeai/crade/releases/latest/download/Crade.exe) |
+| macOS (.dmg) | [Download](https://github.com/crade-ai/crade/releases/latest/download/Crade.dmg) |
+| Windows (.exe) | [Download](https://github.com/crade-ai/crade/releases/latest/download/Crade.exe) |
 
 ## Requirements
 
-- macOS 12+ or Windows 10+
-- Screen recording permission (macOS)
+- macOS 13+ or Windows 10+
+- Screen recording permission (macOS only)
+- Internet connection
 
 ## Support
 
-Having issues? [Open an issue](https://github.com/cradeai/crade/issues) or email us at info@crade.ai
+- Issues: [Open an issue](https://github.com/crade-ai/crade/issues)
+- Email: info@crade.ai
+- Website: [crade.ai](https://crade.ai)
